@@ -29,6 +29,4 @@
 ![Viber](https://img.shields.io/badge/viber-black?style=for-the-badge&logo=viber)
 ![discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalikHey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
