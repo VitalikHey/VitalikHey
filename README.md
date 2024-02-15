@@ -1,6 +1,6 @@
 [![Header](https://github.com/VitalikHey/VitalikHey/blob/main/assets/header.jpg)](https://t.me/VitalikHey)
 
-## I'm a Russian, novice frontend developer, mainly based on react
+## I'm a Russian, novice frontend developer, mainly based on react.
 
 ### Language and Tools
 
