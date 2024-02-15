@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/VitalikHey/VitalikHey/blob/main/assets/header.jpg)](https://t.me/VitalikHey)
 
 About me
 
