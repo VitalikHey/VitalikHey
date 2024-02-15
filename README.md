@@ -2,8 +2,6 @@
 
 ## I am a Russian, novice frontend developer
 
-Fun fact
-
 ### Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
