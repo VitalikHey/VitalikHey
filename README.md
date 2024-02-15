@@ -10,7 +10,6 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
-![c++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=C%2b%2b&logoColor=6296cc)
 ![framework](https://img.shields.io/badge/framework-black?style=for-the-badge&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
