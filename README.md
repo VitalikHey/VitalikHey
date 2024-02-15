@@ -1,6 +1,6 @@
 [![Header](https://github.com/VitalikHey/VitalikHey/blob/main/assets/header.jpg)](https://t.me/VitalikHey)
 
-### I'm a Russian, novice frontend developer, mainly based on react, but developing web applications with other libraries will not be difficult. I have good knowledge of English and very minimal German. In the future, I will definitely take up the backend side of development.
+## I'm a Russian, novice frontend developer, mainly based on react
 
 ### Language and Tools
 
